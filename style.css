@@ -1,5 +1,14 @@
+body {
+  background-color: black;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
 main {
-  height: 100vh;
+  height: 80vh;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
